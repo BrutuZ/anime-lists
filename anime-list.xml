@@ -30011,8 +30011,12 @@
   <anime anidbid="14989" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kutsujoku</name>
   </anime>
-  <anime anidbid="14990" tvdbid="376144" defaulttvdbseason="1">
+  <anime anidbid="14990" tvdbid="376144" defaulttvdbseason="a">
     <name>Great Pretender</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="1" start="1" end="14"/>
+      <mapping anidbseason="1" tvdbseason="2" start="15" end="23" offset="-14"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14994" tvdbid="378878" defaulttvdbseason="1">
     <name>Deca-Dence</name>

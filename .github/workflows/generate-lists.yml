@@ -1,7 +1,8 @@
 name: Generate lists
 on:
   push:
-    branches: master
+    branches: [master, workflow-update]
+  workflow_dispatch:
 jobs:
   generate-lists:
     runs-on: ubuntu-latest
@@ -11,6 +12,7 @@ jobs:
           ref: ${{ github.head_ref }}
       - name: Generate lists
         run: |
+          sudo apt-get update
           sudo apt-get install xsltproc libxml2-utils
           for f in *.xml; do xmllint --format --output "$f" "$f"; done
           ./generate-lists.sh

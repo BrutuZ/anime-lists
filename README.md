@@ -4,6 +4,8 @@ Anime Lists
 Anime mapping lists used by:
   - [AniDb.net [MOD] scrapers](https://forum.kodi.tv/showthread.php?tid=142835) for [Kodi](https://kodi.tv/)
   - [HTTP Anidb Metadata Agent (HAMA)](https://github.com/ZeroQI/Hama.bundle) for [Plex](https://plex.tv)
+  - [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager)
+  - [MyAnimeList Plex Metadata Agent](https://github.com/Fribb/MyAnimeList.bundle)
 
 
 These lists map information between [AniDB](https://anidb.net), [TheTVDB](https://www.thetvdb.com), [TMDB](https://www.themoviedb.org) and [IMDB](https://www.imdb.com).
@@ -55,7 +57,7 @@ Each entry consists of an **anime** node with the following attributes:
 
 *   **anidbid** - The AniDb.net id (pre-filled).
 
-*   **tvdbid** - theTVDB.com id.  Multi-episode titles not found on theTVDB.com are marked as "unknown", as they may eventually get added and
+*   **tvdbid** - theTVDB.com **series** id (do not use movie IDs). Multi-episode titles not found on theTVDB.com are marked as "unknown", as they may eventually get added and
     this makes it easier to re-check (via anime-list-unknown.xml).  One-off titles that won't ever be added to theTVDB.com (movies, TV specials, one-shot OVAs)
     are marked by their AniDb.net type, unless they can be associated to a multi-episode series (in which case they use the corresponding theTVDB.com id or "unknown").
 
@@ -69,8 +71,7 @@ Each entry consists of an **anime** node with the following attributes:
     Not necessary if the episode numbers match up exactly.
     For special episodes and more complex situations the mapping-list is used (see below).
 
-*   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id.  Only used for one-off titles like movies.
-    Only one will be filled by default, with preference going to the imdb.com id, but the imdb.com entry must correspond exactly with AniDb.net.
+*   **tmdbid**/**imdbid** - themoviedb.org/imdb.com id. Only used for one-off titles like movies.
     **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)**
 
 Within the anime node are any of the following nodes

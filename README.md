@@ -77,6 +77,8 @@ Each entry consists of an **anime** node with the following attributes:
 
 *   **tmdbseason** - The corresponding TheMovieDB.org season.
 
+*   **tmdboffset** - Same as `episodeoffset`, but for TheMovieDB
+
 *   **tmdbid**/**imdbid** - TheMovieDB.org/imdb.com ID. Only used for standalone entries like movies.
     Multiple IDs can be mapped to the same AniDB entry with comma sepparation. Ex: `tmdbid="12345,67890"`, `imdbid="tt12345678,tt9876543"`
     **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)** Use `tmdbtv` instead

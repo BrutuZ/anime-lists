@@ -59,9 +59,8 @@ Each entry consists of an **anime** node with the following attributes:
 
 *   **anidbid** - The AniDB.net id (pre-filled).
 
-*   **tvdbid** - TheTVDB.com **series** id (do not use movie IDs). Multi-episode titles not found on TheTVDB.com are marked as "unknown", as they may eventually get added and
-    this makes it easier to re-check (via anime-list-unknown.xml).  One-off titles that won't ever be added to TheTVDB.com (movies, TV specials, one-shot OVAs)
-    are marked by their AniDB.net type, unless they can be associated to a multi-episode series (in which case they use the corresponding TheTVDB.com id or "unknown").
+*   **tvdbid** - TheTVDB.com **series** id (do not use movie IDs). One-off titles that won't ever be added to TheTVDB.com (movies, TV specials, one-shot OVAs)
+    are marked by their AniDB.net type, unless they can be associated to a multi-episode series (in which case they use the corresponding TheTVDB.com id).
 
     Pornographic titles are marked by "hentai" regardless of episode count as they will never appear on TheTVDB.com.
 
@@ -81,7 +80,7 @@ Each entry consists of an **anime** node with the following attributes:
 
 *   **tmdbid**/**imdbid** - TheMovieDB.org/imdb.com ID. Only used for standalone entries like movies.
     Multiple IDs can be mapped to the same AniDB entry with comma sepparation. Ex: `tmdbid="12345,67890"`, `imdbid="tt12345678,tt9876543"`
-    **[Do not use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)** Use `tmdbtv` instead
+    **[Do NOT use tmdbid for series!](https://github.com/ScudLee/anime-lists/issues/342)** Use `tmdbtv` instead
 
 Within the anime node are any of the following nodes
 

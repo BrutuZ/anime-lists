@@ -28176,7 +28176,7 @@
       <mapping anidbseason="0" tvdbseason="0">;14-41;15-42;16-43;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="12484" tvdbid="movie" tmdbid="747979,0,747977" imdbid="tt9108390,tt10276074,tt11575566">
+  <anime anidbid="12484" tvdbid="movie" tmdbid="747979,747977" imdbid="tt9108390,tt10276074,tt11575566">
     <name>Tennis no Ouji-sama: Best Games!!</name>
   </anime>
   <anime anidbid="12485" tvdbid="325373" defaulttvdbseason="1" tmdbtv="71008" tmdbseason="1">

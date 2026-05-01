@@ -35022,10 +35022,10 @@
   <anime anidbid="17822" tvdbid="469571" defaulttvdbseason="1" tmdbtv="290837" tmdbseason="1">
     <name>Heart Cocktail: Colorful</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2" start="6" end="10" offset="-5"/>
-      <mapping anidbseason="1" tvdbseason="3" start="11" end="15" offset="-10"/>
       <mapping anidbseason="1" tmdbseason="2" start="6" end="10" offset="-5"/>
       <mapping anidbseason="1" tmdbseason="3" start="11" end="15" offset="-10"/>
+      <mapping anidbseason="1" tvdbseason="2" start="6" end="10" offset="-5"/>
+      <mapping anidbseason="1" tvdbseason="3" start="11" end="15" offset="-10"/>
     </mapping-list>
   </anime>
   <anime anidbid="17825" tvdbid="429895" defaulttvdbseason="1" tmdbtv="218563" tmdbseason="1">
@@ -37556,6 +37556,18 @@
   <anime anidbid="19912" tvdbid="474691" defaulttvdbseason="1">
     <name>Dandelion</name>
   </anime>
+  <anime anidbid="19932" tvdbid="476071" defaulttvdbseason="1" tmdbtv="317727" tmdbseason="1">
+    <name>Komekami! Girls</name>
+  </anime>
+  <anime anidbid="19933" tvdbid="475261" defaulttvdbseason="1" tmdbtv="316693" tmdbseason="1">
+    <name>J&amp;lt;-&amp;gt;M</name>
+  </anime>
+  <anime anidbid="19942" tvdbid="475306" defaulttvdbseason="1" tmdbtv="316694" tmdbseason="1">
+    <name>Tensei Goblin Dakedo Shitsumon Aru?</name>
+  </anime>
+  <anime anidbid="19944" tvdbid="475350" defaulttvdbseason="1" tmdbtv="316720" tmdbseason="1">
+    <name>Junket Bank</name>
+  </anime>
   <anime anidbid="19951" tvdbid="475488" defaulttvdbseason="1" tmdbtv="316551" tmdbseason="1">
     <name>Battle Spirits [Re] Zekkai no Kuu</name>
   </anime>
@@ -37588,5 +37600,11 @@
   </anime>
   <anime anidbid="19993" tvdbid="453992" defaulttvdbseason="0">
     <name>Shibou Yuugi de Meshi o Kuu. 44:Cloudy Beach</name>
+  </anime>
+  <anime anidbid="20009" tvdbid="476805" defaulttvdbseason="1" tmdbtv="319900" tmdbseason="1">
+    <name>Black Channel</name>
+  </anime>
+  <anime anidbid="20010" tvdbid="476804" defaulttvdbseason="1" tmdbtv="285994" tmdbseason="1">
+    <name>Majo to Youhei</name>
   </anime>
 </anime-list>

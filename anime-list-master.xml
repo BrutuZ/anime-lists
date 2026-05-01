@@ -49380,10 +49380,10 @@
   <anime anidbid="17822" tvdbid="469571" defaulttvdbseason="1" episodeoffset="" tmdbtv="290837" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Heart Cocktail: Colorful</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2" start="6" end="10" offset="-5"/>
-      <mapping anidbseason="1" tvdbseason="3" start="11" end="15" offset="-10"/>
       <mapping anidbseason="1" tmdbseason="2" start="6" end="10" offset="-5"/>
       <mapping anidbseason="1" tmdbseason="3" start="11" end="15" offset="-10"/>
+      <mapping anidbseason="1" tvdbseason="2" start="6" end="10" offset="-5"/>
+      <mapping anidbseason="1" tvdbseason="3" start="11" end="15" offset="-10"/>
     </mapping-list>
   </anime>
   <anime anidbid="17823" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
@@ -49841,7 +49841,7 @@
     <name>Giji Harem</name>
   </anime>
   <anime anidbid="17983" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Nightmare x Deathscythe</name>
+    <name>Nightmare x Deathscythe: Hangyaku no Resonance</name>
   </anime>
   <anime anidbid="17984" tvdbid="433584" defaulttvdbseason="1" episodeoffset="" tmdbtv="230189" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kekkon Surutte, Hontou Desuka</name>
@@ -50474,7 +50474,7 @@
     <name>Synduality Noir (2024)</name>
   </anime>
   <anime anidbid="18207" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru 2</name>
+    <name>Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru (2027)</name>
   </anime>
   <anime anidbid="18208" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Magical Explorer</name>
@@ -53877,7 +53877,7 @@
     <name>Kiken na Mori Onigokko</name>
   </anime>
   <anime anidbid="19414" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>OVA Pure Pure Pero Pero Princess</name>
+    <name>Pure Pure Pero Pero Princess</name>
   </anime>
   <anime anidbid="19415" tvdbid="465214" defaulttvdbseason="1" episodeoffset="" tmdbtv="294867" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Towa no Yuugure</name>
@@ -54117,7 +54117,7 @@
     <name>Shijian Zhizi</name>
   </anime>
   <anime anidbid="19499" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>H na Gishi Series The Animation</name>
+    <name>H na Ane Series The Animation</name>
   </anime>
   <anime anidbid="19500" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Fei Ren Zai Di San Ji</name>
@@ -55570,5 +55570,50 @@
   </anime>
   <anime anidbid="20018" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Pen to Wappa to Jijitsukon</name>
+  </anime>
+  <anime anidbid="20019" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Majo no Tani no Yoru</name>
+  </anime>
+  <anime anidbid="20020" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Arafoo Kenja no Isekai Seikatsu Nikki</name>
+  </anime>
+  <anime anidbid="20022" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Megane, Tokidoki, Yankee-kun</name>
+  </anime>
+  <anime anidbid="20023" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>The Ribbon Hero</name>
+  </anime>
+  <anime anidbid="20024" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Jiang Ye</name>
+  </anime>
+  <anime anidbid="20025" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Sword Art Online: Unanswered//Butterfly</name>
+  </anime>
+  <anime anidbid="20026" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Boushoku no Berserk 2</name>
+  </anime>
+  <anime anidbid="20027" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kagurabachi</name>
+  </anime>
+  <anime anidbid="20028" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Harem-jima e Youkoso!</name>
+  </anime>
+  <anime anidbid="20029" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Hokuhokusei ni Kumori to Yuke</name>
+  </anime>
+  <anime anidbid="20030" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>OVA Furachi</name>
+  </anime>
+  <anime anidbid="20031" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Lele Bianlidian</name>
+  </anime>
+  <anime anidbid="20032" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Harem Shima e Youkoso!</name>
+  </anime>
+  <anime anidbid="20033" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Toshoshitsu no Kanojo: Onna Kyoushi ga Ochiru made The Animation</name>
+  </anime>
+  <anime anidbid="20034" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi</name>
   </anime>
 </anime-list>

@@ -5608,7 +5608,7 @@
     <name>Dog Soldier</name>
   </anime>
   <anime anidbid="1527" tvdbid="265215" defaulttvdbseason="1" tmdbtv="56427" tmdbseason="1">
-    <name>Cyborg 009</name>
+    <name>Cyborg 009 (1968)</name>
   </anime>
   <anime anidbid="1528" tvdbid="movie" tmdbid="80779" imdbid="tt0327660">
     <name>DragonBlade</name>
@@ -6314,7 +6314,7 @@
     <name>Rokushin Gattai GodMars: Juunanasai no Densetsu</name>
   </anime>
   <anime anidbid="1786" tvdbid="414408" defaulttvdbseason="1">
-    <name>Tabako Ippon no Story: Heart Cocktail</name>
+    <name>Heart Cocktail</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="13"/>
       <mapping anidbseason="1" tvdbseason="2" start="14" end="27" offset="-13"/>
@@ -7455,7 +7455,7 @@
     <name>Gulliver no Uchuu Ryokou</name>
   </anime>
   <anime anidbid="2204" tvdbid="265215" defaulttvdbseason="0" tmdbtv="56427" tmdbseason="0" imdbid="tt0060926">
-    <name>Cyborg 009 (1966)</name>
+    <name>Cyborg 009</name>
   </anime>
   <anime anidbid="2205" tvdbid="265215" defaulttvdbseason="0" episodeoffset="1" tmdbtv="56427" tmdbseason="0" tmdboffset="1" imdbid="tt0062224">
     <name>Cyborg 009 Kaijuu Sensou</name>
@@ -8847,7 +8847,7 @@
     <name>Zouressha ga Yatte Kita</name>
   </anime>
   <anime anidbid="2717" tvdbid="252696" defaulttvdbseason="0" tmdbtv="57911" tmdbseason="0" imdbid="tt0473474">
-    <name>Doraemon: Nobita to Fushigi Kaze Tsukai</name>
+    <name>Eiga Doraemon: Nobita to Fushigi Kaze Tsukai</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -26459,9 +26459,6 @@
   <anime anidbid="11182" tvdbid="hentai">
     <name>Futabu! Mix: Futanari World</name>
   </anime>
-  <anime anidbid="11183" tvdbid="movie" tmdbid="798833" imdbid="tt0422569">
-    <name>Katsura Hime</name>
-  </anime>
   <anime anidbid="11184" tvdbid="254653" defaulttvdbseason="0" episodeoffset="9" tmdbtv="45950" tmdbseason="0" tmdboffset="10">
     <name>High School DxD New: Teishi Kyoushitsu no Vampire - Oppai, Tsutsumimasu!</name>
   </anime>
@@ -36436,7 +36433,7 @@
     <name>Isekai Mokushiroku Mynoghra</name>
   </anime>
   <anime anidbid="18707" tvdbid="434704" defaulttvdbseason="2" tmdbtv="237150" tmdbseason="1" tmdboffset="12">
-    <name>Tensei Kizoku, Kantei Skill de Nariagaru (2024)</name>
+    <name>Tensei Kizoku, Kantei Skill de Nariagaru Dai 2 Ki</name>
   </anime>
   <anime anidbid="18708" tvdbid="451527" defaulttvdbseason="1" tmdbtv="257790" tmdbseason="1">
     <name>Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.</name>
@@ -36931,7 +36928,7 @@
     <name>Vigilante: Boku no Hero Academia Illegals</name>
   </anime>
   <anime anidbid="19070" tvdbid="434704" defaulttvdbseason="3" tmdbtv="237150" tmdbseason="1" tmdboffset="24">
-    <name>Tensei Kizoku, Kantei Skill de Nariagaru (2026)</name>
+    <name>Tensei Kizoku, Kantei Skill de Nariagaru Dai 3 Ki</name>
   </anime>
   <anime anidbid="19071" tvdbid="414207" defaulttvdbseason="3" tmdbtv="154526" tmdbseason="1" tmdboffset="24">
     <name>MF Ghost 3rd Season</name>
@@ -36940,7 +36937,7 @@
     <name>Puniru wa Kawaii Slime (2025)</name>
   </anime>
   <anime anidbid="19073" tvdbid="movie" tmdbid="1406657" imdbid="tt35114460">
-    <name>Hateshi Naki Scarlet</name>
+    <name>Hateshinaki Scarlet</name>
   </anime>
   <anime anidbid="19075" tvdbid="446389" defaulttvdbseason="1" episodeoffset="13" tmdbtv="258579" tmdbseason="1" tmdboffset="13">
     <name>Nageki no Bourei wa Intai Shitai (2025)</name>
@@ -37849,7 +37846,7 @@
     <name>Tank Chair</name>
   </anime>
   <anime anidbid="19953" tvdbid="475628" defaulttvdbseason="1">
-    <name>Kanata Kara</name>
+    <name>Kanata kara</name>
   </anime>
   <anime anidbid="19954" tvdbid="475631" defaulttvdbseason="1">
     <name>Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita</name>

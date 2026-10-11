@@ -5623,7 +5623,7 @@
     <name>Dog Soldier</name>
   </anime>
   <anime anidbid="1527" tvdbid="265215" defaulttvdbseason="1" episodeoffset="" tmdbtv="56427" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
-    <name>Cyborg 009</name>
+    <name>Cyborg 009 (1968)</name>
   </anime>
   <anime anidbid="1528" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="80779" imdbid="tt0327660">
     <name>DragonBlade</name>
@@ -6395,7 +6395,7 @@
     <name>Rokushin Gattai GodMars: Juunanasai no Densetsu</name>
   </anime>
   <anime anidbid="1786" tvdbid="414408" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Tabako Ippon no Story: Heart Cocktail</name>
+    <name>Heart Cocktail</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="1" start="1" end="13"/>
       <mapping anidbseason="1" tvdbseason="2" start="14" end="27" offset="-13"/>
@@ -7704,7 +7704,7 @@
     <name>Gulliver no Uchuu Ryokou</name>
   </anime>
   <anime anidbid="2204" tvdbid="265215" defaulttvdbseason="0" episodeoffset="" tmdbtv="56427" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0060926">
-    <name>Cyborg 009 (1966)</name>
+    <name>Cyborg 009</name>
   </anime>
   <anime anidbid="2205" tvdbid="265215" defaulttvdbseason="0" episodeoffset="1" tmdbtv="56427" tmdbseason="0" tmdboffset="1" tmdbid="" imdbid="tt0062224">
     <name>Cyborg 009 Kaijuu Sensou</name>
@@ -9288,7 +9288,7 @@
     <name>Zouressha ga Yatte Kita</name>
   </anime>
   <anime anidbid="2717" tvdbid="252696" defaulttvdbseason="0" episodeoffset="" tmdbtv="57911" tmdbseason="0" tmdboffset="" tmdbid="" imdbid="tt0473474">
-    <name>Doraemon: Nobita to Fushigi Kaze Tsukai</name>
+    <name>Eiga Doraemon: Nobita to Fushigi Kaze Tsukai</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -30980,9 +30980,6 @@
   <anime anidbid="11182" tvdbid="hentai" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Futabu! Mix: Futanari World</name>
   </anime>
-  <anime anidbid="11183" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="798833" imdbid="tt0422569">
-    <name>Katsura Hime</name>
-  </anime>
   <anime anidbid="11184" tvdbid="254653" defaulttvdbseason="0" episodeoffset="9" tmdbtv="45950" tmdbseason="0" tmdboffset="10" tmdbid="" imdbid="">
     <name>High School DxD New: Teishi Kyoushitsu no Vampire - Oppai, Tsutsumimasu!</name>
   </anime>
@@ -51021,7 +51018,7 @@
     <name>Jing Cui Xian Zun</name>
   </anime>
   <anime anidbid="18396" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Jing Cui Xian Zun 2</name>
+    <name>Jing Cui Xian Zun Xia</name>
   </anime>
   <anime anidbid="18397" tvdbid="370761" defaulttvdbseason="2" episodeoffset="" tmdbtv="94404" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Dorohedoro Season 2</name>
@@ -51886,7 +51883,7 @@
     <name>Shi Wangzhe A? Di 3 Ji: Youqiubiying Xingzhi Dui</name>
   </anime>
   <anime anidbid="18707" tvdbid="434704" defaulttvdbseason="2" episodeoffset="" tmdbtv="237150" tmdbseason="1" tmdboffset="12" tmdbid="" imdbid="">
-    <name>Tensei Kizoku, Kantei Skill de Nariagaru (2024)</name>
+    <name>Tensei Kizoku, Kantei Skill de Nariagaru Dai 2 Ki</name>
   </anime>
   <anime anidbid="18708" tvdbid="451527" defaulttvdbseason="1" episodeoffset="" tmdbtv="257790" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.</name>
@@ -52441,7 +52438,7 @@
     <name>"Oshi no Ko" (2026)</name>
   </anime>
   <anime anidbid="18902" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Uchuu Senkan Yamato (Shinsaku Anime Eizou)</name>
+    <name>Uchuu Senkan Yamato Root 2199</name>
   </anime>
   <anime anidbid="18903" tvdbid="432455" defaulttvdbseason="2" episodeoffset="" tmdbtv="222623" tmdbseason="2" tmdboffset="" tmdbid="" imdbid="">
     <name>Nige Jouzu no Wakagimi (2026)</name>
@@ -52632,9 +52629,6 @@
   <anime anidbid="18967" tvdbid="456392" defaulttvdbseason="1" episodeoffset="" tmdbtv="276110" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Arne no Jikenbo</name>
   </anime>
-  <anime anidbid="18968" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>One Piece Log: Fish-Man Island Saga</name>
-  </anime>
   <anime anidbid="18970" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Isekai Munchkin: HP 1 no Mama de Saikyou Saisoku Dungeon Kouryaku</name>
   </anime>
@@ -52776,9 +52770,6 @@
   <anime anidbid="19020" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1395140" imdbid="tt34812090">
     <name>Lupin the IIIrd the Movie: Fujimi no Ketsuzoku</name>
   </anime>
-  <anime anidbid="19021" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Geu Yeoreum (2023)</name>
-  </anime>
   <anime anidbid="19022" tvdbid="457372" defaulttvdbseason="1" episodeoffset="" tmdbtv="278604" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Gnosia</name>
   </anime>
@@ -52918,7 +52909,7 @@
     <name>Vigilante: Boku no Hero Academia Illegals</name>
   </anime>
   <anime anidbid="19070" tvdbid="434704" defaulttvdbseason="3" episodeoffset="" tmdbtv="237150" tmdbseason="1" tmdboffset="24" tmdbid="" imdbid="">
-    <name>Tensei Kizoku, Kantei Skill de Nariagaru (2026)</name>
+    <name>Tensei Kizoku, Kantei Skill de Nariagaru Dai 3 Ki</name>
   </anime>
   <anime anidbid="19071" tvdbid="414207" defaulttvdbseason="3" episodeoffset="" tmdbtv="154526" tmdbseason="1" tmdboffset="24" tmdbid="" imdbid="">
     <name>MF Ghost 3rd Season</name>
@@ -52927,7 +52918,7 @@
     <name>Puniru wa Kawaii Slime (2025)</name>
   </anime>
   <anime anidbid="19073" tvdbid="movie" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="1406657" imdbid="tt35114460">
-    <name>Hateshi Naki Scarlet</name>
+    <name>Hateshinaki Scarlet</name>
   </anime>
   <anime anidbid="19074" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Gomu o Tsukete to Iimashita yo ne...</name>
@@ -55366,7 +55357,7 @@
     <name>Tank Chair</name>
   </anime>
   <anime anidbid="19953" tvdbid="475628" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Kanata Kara</name>
+    <name>Kanata kara</name>
   </anime>
   <anime anidbid="19954" tvdbid="475631" defaulttvdbseason="1" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita</name>
@@ -55480,7 +55471,7 @@
     <name>Daikenja Riddle no Jikan Gyakkou</name>
   </anime>
   <anime anidbid="19995" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Juurin Oukoku</name>
+    <name>Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni</name>
   </anime>
   <anime anidbid="19996" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol Netsuppoi Ichinichi</name>
@@ -55564,7 +55555,7 @@
     <name>Unanswered//Butterfly: Sword Art Online</name>
   </anime>
   <anime anidbid="20026" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Boushoku no Berserk 2</name>
+    <name>Boushoku no Berserk Season 2</name>
   </anime>
   <anime anidbid="20027" tvdbid="457476" defaulttvdbseason="1" episodeoffset="" tmdbtv="320905" tmdbseason="1" tmdboffset="" tmdbid="" imdbid="">
     <name>Kagurabachi</name>
@@ -56671,7 +56662,7 @@
     <name>Phantom Busters</name>
   </anime>
   <anime anidbid="20414" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
-    <name>Meitantei Conan: 30-gou Satsujin Jiken</name>
+    <name>Meitantei Conan: 30 Gou Satsujin Jiken</name>
   </anime>
   <anime anidbid="20415" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Elf-sensei no Toilet wa Doko Desuka?</name>
@@ -56786,5 +56777,44 @@
   </anime>
   <anime anidbid="20452" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
     <name>Pop Pap Polters</name>
+  </anime>
+  <anime anidbid="20453" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Delta to Gamma no Rigakubu Note</name>
+  </anime>
+  <anime anidbid="20454" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Manshuu Ahen Squad</name>
+  </anime>
+  <anime anidbid="20455" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>AOTU Shijie REBORN: Di Yi Pianzhang Monu Xianjing</name>
+  </anime>
+  <anime anidbid="20456" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Vampire Juuji-kai</name>
+  </anime>
+  <anime anidbid="20457" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kataude</name>
+  </anime>
+  <anime anidbid="20458" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Kuang Wang 2</name>
+  </anime>
+  <anime anidbid="20459" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Saikon Shounin o Youkyuushimasu</name>
+  </anime>
+  <anime anidbid="20460" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>The Boxer</name>
+  </anime>
+  <anime anidbid="20461" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Monster no Niku o Kutte Itara Oui ni Tsuita Ken</name>
+  </anime>
+  <anime anidbid="20462" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Dr. Stone: Terraforming</name>
+  </anime>
+  <anime anidbid="20463" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Yuu-san chi! from Yuu-hachi</name>
+  </anime>
+  <anime anidbid="20464" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Naruto x Ninkuu</name>
+  </anime>
+  <anime anidbid="20465" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbtv="" tmdbseason="" tmdboffset="" tmdbid="" imdbid="">
+    <name>Mazenchu</name>
   </anime>
 </anime-list>

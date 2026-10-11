@@ -36483,6 +36483,9 @@
   <anime anidbid="18728" tvdbid="451767" defaulttvdbseason="1" tmdbtv="283360" tmdbseason="1">
     <name>Classic Stars</name>
   </anime>
+  <anime anidbid="18729" tvdbid="452013" defaulttvdbseason="1" tmdbtv="303272" tmdbseason="1">
+    <name>Magic Knight Rayearth (2026)</name>
+  </anime>
   <anime anidbid="18730" tvdbid="451793" defaulttvdbseason="1" tmdbtv="258348" tmdbseason="1">
     <name>Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha</name>
   </anime>
@@ -37206,6 +37209,9 @@
   <anime anidbid="19310" tvdbid="463013" defaulttvdbseason="1" tmdbtv="285357" tmdbseason="1">
     <name>"Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai</name>
   </anime>
+  <anime anidbid="19318" tvdbid="407840" defaulttvdbseason="2" tmdbtv="126437" tmdbseason="2">
+    <name>Ao Ashi Season 2</name>
+  </anime>
   <anime anidbid="19321" tvdbid="452421" defaulttvdbseason="1" episodeoffset="13" tmdbtv="259544" tmdbseason="1" tmdboffset="13">
     <name>Jigoku Sensei Nube (2026)</name>
   </anime>
@@ -37515,6 +37521,9 @@
   <anime anidbid="19619" tvdbid="468580" defaulttvdbseason="1" tmdbtv="299743" tmdbseason="1">
     <name>Heika Watashi o Wasurete Kudasai</name>
   </anime>
+  <anime anidbid="19621" tvdbid="456463" defaulttvdbseason="2" tmdbtv="276288" tmdbseason="2">
+    <name>Hotel Inhumans (2026)</name>
+  </anime>
   <anime anidbid="19625" tvdbid="468734" defaulttvdbseason="1" tmdbtv="301944" tmdbseason="1">
     <name>Marriage Toxin</name>
   </anime>
@@ -37694,6 +37703,9 @@
   </anime>
   <anime anidbid="19791" tvdbid="471946" defaulttvdbseason="1" tmdbtv="309176" tmdbseason="1">
     <name>Jirai Nandesuka? Chihara-san</name>
+  </anime>
+  <anime anidbid="19795" tvdbid="449843" defaulttvdbseason="2" tmdbtv="253811" tmdbseason="2">
+    <name>Tougen Anki: Nikkou Kegon no Taki Hen</name>
   </anime>
   <anime anidbid="19798" tvdbid="472095" defaulttvdbseason="1" tmdbtv="309381" tmdbseason="1">
     <name>Ruri Dragon</name>
@@ -37926,8 +37938,17 @@
   <anime anidbid="20074" tvdbid="478668" defaulttvdbseason="1" tmdbtv="324326" tmdbseason="1">
     <name>Marronnier Oukoku no Shichinin no Kishi</name>
   </anime>
+  <anime anidbid="20077" tvdbid="478752" defaulttvdbseason="1" tmdbtv="324502" tmdbseason="1">
+    <name>Tempal: Item no Chikara</name>
+  </anime>
+  <anime anidbid="20081" tvdbid="478770" defaulttvdbseason="1" tmdbtv="323937" tmdbseason="1">
+    <name>Juuou Bushin Dandivine</name>
+  </anime>
   <anime anidbid="20084" tvdbid="478865" defaulttvdbseason="1" tmdbtv="324862" tmdbseason="1">
     <name>Juuheisou-gata Joshikousei</name>
+  </anime>
+  <anime anidbid="20085" tvdbid="472037" defaulttvdbseason="1" tmdbtv="308977" tmdbseason="1">
+    <name>Keroro Gunsou (2026)</name>
   </anime>
   <anime anidbid="20086" tvdbid="479020" defaulttvdbseason="1" tmdbtv="325101" tmdbseason="1">
     <name>Dengeki Daisy</name>
@@ -37973,5 +37994,8 @@
   </anime>
   <anime anidbid="20240" tvdbid="453057" defaulttvdbseason="2" tmdbtv="261343" tmdbseason="1" tmdboffset="13">
     <name>Chitose-kun wa Ramune Bin no Naka (2026)</name>
+  </anime>
+  <anime anidbid="20348" tvdbid="254899" defaulttvdbseason="5" tmdbtv="205493" tmdbseason="3">
+    <name>Shin Tennis no Ouji-sama: U-17 World Cup - Kesshou Member Ketteisen</name>
   </anime>
 </anime-list>
